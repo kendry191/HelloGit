@@ -5,6 +5,9 @@ public class Hello {
 	
 		System.out.println("Kendry Arrazcaeta");
 		System.out.println("Computer Science");
+		
+		System.out.println("Dylan Bonner");
+		System.out.println("Computer Science");
 	}
 
 }
